@@ -1,0 +1,29 @@
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 4rem;
+}
+span{
+    color: grey;
+}
+
+header p{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(43, 41, 41);
+    font-family: sans-serif;
+}
+
+img{
+  margin-left: 30rem;
+  width:50%;
+}
+
+footer{
+    color: grey;
+    margin-top: 10px;
+    padding-top: 10px;
+    height: 40px;
+    background-image: linear-gradient(to right, rgb(224, 224, 184), white);
+    padding-left: 20px;  
+}
